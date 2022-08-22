@@ -1,0 +1,50 @@
+.wrapper {
+    background-color: #cae0a6;
+    height: 100px;
+}
+
+.header_content {
+    display: flex;
+    color: #ffffff;
+    justify-content: space-between;
+}
+
+.logo_link {
+    text-decoration:none;
+    display: inline-block;
+    font-size: 24px;
+    color: #ffffff;
+    margin-top: 14px;
+}
+
+.list {
+    display: flex;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.price {
+    margin-left: 5px;
+}
+
+.list_item {
+    display: flex;
+}
+
+.list_item:not(:first-child) {
+    margin-left: 30px;
+}
+
+.logo_wrapper {
+    display: flex;
+}
+
+.logo_description {
+    margin-left: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    margin-top: 20px;
+}

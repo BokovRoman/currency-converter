@@ -1,0 +1,32 @@
+.field {
+    margin-top: 20px;
+}
+
+.select {
+    margin-left: 10px;
+}
+
+.input_section {
+    background: #FFFFFF;
+
+}
+
+.select {
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    width: 120px;
+
+}
+
+.input {
+    width: 242px;
+    height: 40px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 22px;
+    border: 1px solid #E1E5F1;
+    box-shadow: 0px 2px 15px -4.57364px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+}
